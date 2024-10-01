@@ -1,5 +1,5 @@
-# Maria Atef Edward 
-
+# Code funtions done by: Maria Atef Edward 
+# main menu done: by Abraam Morcos
 
 # problem 1 function
 # this function converts from decimal to binary
